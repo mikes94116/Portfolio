@@ -7,3 +7,5 @@ Here, easily navigate your way around coding projects Mike has created by way of
 But don't stop there... go further!... find out more about Mike by reading the 'about me' section... accessing Mike's LinkedIn profile, or even his Instagram feed.
 
 https://mikes94116.github.io/Portfolio/
+
+![](https://raw.githubusercontent.com/mikes94116/Portfolio/master/Portfolio.png)
